@@ -26,6 +26,10 @@
 		{
 			"Name": "Buoyancy",
 			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
 		}
 	]
 }
